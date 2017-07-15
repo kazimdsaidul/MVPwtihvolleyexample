@@ -27,4 +27,10 @@ dependencies {
     compile 'com.android.support:appcompat-v7:26.+'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     testCompile 'junit:junit:4.12'
+
+    // add volley libaray
+    compile 'com.mcxiaoke.volley:library:1.0.19'
+
+    // android logger libary
+    compile 'com.orhanobut:logger:2.1.1'
 }
